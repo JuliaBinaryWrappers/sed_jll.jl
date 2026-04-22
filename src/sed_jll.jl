@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("sed")
-JLLWrappers.@generate_main_file("sed", UUID("8ce03227-cf0a-51af-b0b4-2693c0743e9f"))
+JLLWrappers.@generate_main_file("sed", Base.UUID("8ce03227-cf0a-51af-b0b4-2693c0743e9f"))
 end  # module sed_jll

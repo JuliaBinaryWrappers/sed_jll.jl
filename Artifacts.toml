@@ -1,160 +1,160 @@
 [[sed]]
 arch = "aarch64"
-git-tree-sha1 = "9fa8f4b862c11a767ff7d9f94110e57bf3749120"
+git-tree-sha1 = "ff4aa5125f564390766ab42838415202d69aff2f"
 os = "macos"
 
     [[sed.download]]
-    sha256 = "f9d89a938c0a4e0d95c6a35dcf188a6c76d72daa1358d255d4b1667790d2f08d"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "ab89782ce88a67eac28ade75294d72f6f3abc61ceb80e7e5ee1a84d51691870e"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.aarch64-apple-darwin.tar.gz"
 [[sed]]
 arch = "aarch64"
-git-tree-sha1 = "6a720f36246ed9421218c78b552586699915afcd"
+git-tree-sha1 = "2f8e52f9443842518f8af5348078b929605ad23a"
 libc = "glibc"
 os = "linux"
 
     [[sed.download]]
-    sha256 = "02c407a1022efb2612d239b11c6562e609831e3218cf7b2f6df37f0305289fb7"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "c2cf88ac41dc5db3e48f116717d21a82d215feefd9ec86d4253312cd6b39a4ea"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.aarch64-linux-gnu.tar.gz"
 [[sed]]
 arch = "aarch64"
-git-tree-sha1 = "093fefed588f36df6214165ac70588acc5774e9a"
+git-tree-sha1 = "8b5b395347f7d2296099062a04d803c1a867a86e"
 libc = "musl"
 os = "linux"
 
     [[sed.download]]
-    sha256 = "1395fef395d8f05faa889d50640a9add2b215767ecc797b67b0b93ac916fb192"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.aarch64-linux-musl.tar.gz"
+    sha256 = "126bbca64a9834ba7e4b92dccffd5117bf234e094dc80de6f9e88b54bf9a88a8"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.aarch64-linux-musl.tar.gz"
 [[sed]]
 arch = "aarch64"
-git-tree-sha1 = "b19cdaa3f51f8f44f0575711390b8bd2b9998cb5"
+git-tree-sha1 = "d424554d265ea75f4fe6270c771c55ce38400af7"
 os = "freebsd"
 
     [[sed.download]]
-    sha256 = "2ec1dfa6d3fa0d8bb0dab4326fac934e2856eb90c402012f59fac3f38cd30776"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "1cc8123340698e3fa5533d1b22497b78f55ca5d79f22dee1a519e7da1933ac87"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.aarch64-unknown-freebsd.tar.gz"
 [[sed]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "5bd550a7e3d48693f742475feb650a4da59a3852"
+git-tree-sha1 = "483d6d02164bb92a151b374c47d528f32e48b748"
 libc = "glibc"
 os = "linux"
 
     [[sed.download]]
-    sha256 = "87f63852ea0c13c5546ed3469a618c28d17c2e671d62c68b1ff9e729a0b845db"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "9121dcf2b59b2138dfa7e9a27f60bf8c23e7816cdfef354ce5edefc539d21e5c"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.armv6l-linux-gnueabihf.tar.gz"
 [[sed]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "973bc82bf560756feb3fd9e7e44dcaaa435bf47e"
+git-tree-sha1 = "a3790b358cde54a672126cbb2a40fc3940c9c938"
 libc = "musl"
 os = "linux"
 
     [[sed.download]]
-    sha256 = "bf3b5def8f696d7f6ba953afaef70286b7f37faf13243217e2978673634acf6b"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "14c7a6559be0bd506232bb80f86d796c517dc8a526665606ec63001e21f08848"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.armv6l-linux-musleabihf.tar.gz"
 [[sed]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "eee2eadb72d34e3dc28ae9bba2172cfa83a3bae2"
+git-tree-sha1 = "990143de760b9f1e126c4076ebbda0fbee77966e"
 libc = "glibc"
 os = "linux"
 
     [[sed.download]]
-    sha256 = "82ea96a844ea9283853a6616244ebfe482f472c1a179de9b3f6558a404595aa0"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "4657bfcf1eb4eed61ed862599ee2b2007365c9cea885748a693b12686610b3f1"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.armv7l-linux-gnueabihf.tar.gz"
 [[sed]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3cd62c92a05dd95b297c5fb6a762f77af5585091"
+git-tree-sha1 = "3da769a8afe2bab24a9536698c0a9932bf56e974"
 libc = "musl"
 os = "linux"
 
     [[sed.download]]
-    sha256 = "a999d8d2c3aeed628e3d8a98a8ff0a2dc7a20a0c8685b5698d257b98a3243c30"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "a13ab25b9056edc9ddaad22d2c1b3054d9c64efd196940726b31459ece49916d"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.armv7l-linux-musleabihf.tar.gz"
 [[sed]]
 arch = "i686"
-git-tree-sha1 = "db43beb1335644ac11d6ba1b3c3a069ecc575d29"
+git-tree-sha1 = "cbef6ac056544810f6c15034f51b914d5bd5e86e"
 libc = "glibc"
 os = "linux"
 
     [[sed.download]]
-    sha256 = "82da8cbf60e7a7365243fa27d8252862568420c327267abc70a9458867735219"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.i686-linux-gnu.tar.gz"
+    sha256 = "3670e00e1075b09f5362722dc343b28c766e16f7250e2a6303c8a003d77e1ebc"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.i686-linux-gnu.tar.gz"
 [[sed]]
 arch = "i686"
-git-tree-sha1 = "1ae28f3dd53577c9a23246ca7a8ad92f1a5d0942"
+git-tree-sha1 = "493e556f119aad209be79c2d9e4ae292f7de2eb1"
 libc = "musl"
 os = "linux"
 
     [[sed.download]]
-    sha256 = "7a55ea56dd1a17031ce9bbd5017627d5ba2fb8d1407f68af55c4f6dc5abeac41"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.i686-linux-musl.tar.gz"
+    sha256 = "da70ab0daae28a87c792258ccf244920c6753b7f8f61596e124a3d4f2b57342b"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.i686-linux-musl.tar.gz"
 [[sed]]
 arch = "i686"
-git-tree-sha1 = "537da766d33f738ff639924c0a1e86dcc34b76e1"
+git-tree-sha1 = "fe48d268ddec7fe54c431c79660137994a64e699"
 os = "windows"
 
     [[sed.download]]
-    sha256 = "66d95410b60ca920f8fb18fda6945e93ec419cc5f6658dd42d7b0937ba1016e8"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.i686-w64-mingw32.tar.gz"
+    sha256 = "05e923607a83f12e68c199514b0ffcf08abfddcf4e4dcc8a19dee3ffb3faae42"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.i686-w64-mingw32.tar.gz"
 [[sed]]
 arch = "powerpc64le"
-git-tree-sha1 = "8533c434a20d1b39bec1a1ad545b214fc3b4a71e"
+git-tree-sha1 = "14221cbd744e8c3fb67a0e83ed01c34d2ea6fd52"
 libc = "glibc"
 os = "linux"
 
     [[sed.download]]
-    sha256 = "5e9c7f2f306ddbd3dba2cf8ab5c48cbc4771610b87564111d9d29fa85c6f7fc9"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "445f6134636d5c4adee96f4362512996ca804ca14ab62da6d26dc62bab60b374"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.powerpc64le-linux-gnu.tar.gz"
 [[sed]]
 arch = "riscv64"
-git-tree-sha1 = "2e7b917773d900d2fc72a7b2071426bf4c63df98"
+git-tree-sha1 = "0f5bdf3a6f5605a15354a5f8ccbe274be5f7f8b7"
 libc = "glibc"
 os = "linux"
 
     [[sed.download]]
-    sha256 = "032e23caaebadb0e920f4b1728035257b555777e137cb00ad97cbfed699f0eb2"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "00a58d514752b3d67f7c8082f95363528e7a42b052ab79d0d16181ae9f6a6d8d"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.riscv64-linux-gnu.tar.gz"
 [[sed]]
 arch = "x86_64"
-git-tree-sha1 = "96c440c651fafa71245e49bc1168c0de5fab1a0f"
+git-tree-sha1 = "ff9da057041b97abddf90ac2daade0f024db10d0"
 os = "macos"
 
     [[sed.download]]
-    sha256 = "d89458ffdd9c769904716e918e9b5ab19f4c38ba3cd0401532e375c731b00212"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "21d02b23b5b5484eb8f2355f0bf8dbd1f334dd55eba3400a44ca1ade2264ba05"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.x86_64-apple-darwin.tar.gz"
 [[sed]]
 arch = "x86_64"
-git-tree-sha1 = "50974602110ceaa6ca48c5b30be9d2afa308cc6b"
+git-tree-sha1 = "c00859160fdef77e1e68694ddd6812aa262e789c"
 libc = "glibc"
 os = "linux"
 
     [[sed.download]]
-    sha256 = "1d914144f0af0241ff7e4b299bceef6f5db7e2fc1ab75a1c3c9890169dde83ff"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "68f7f1b0dcfa14fca005db9291ed1e58064f8b0bcbc606ceae9fa0c72695deb4"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.x86_64-linux-gnu.tar.gz"
 [[sed]]
 arch = "x86_64"
-git-tree-sha1 = "09869ef25b45aaf734f994a3049a819cbdd83e0b"
+git-tree-sha1 = "be11a83f8caba32387b6ac4a17030c3a1938a1e2"
 libc = "musl"
 os = "linux"
 
     [[sed.download]]
-    sha256 = "28cca3e50a08ce1fcf28687f9f3d531679ceed47abdc138261938bd903c47048"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.x86_64-linux-musl.tar.gz"
+    sha256 = "fec10e99c3c5b5eb88fb1c0f7c91c8805a2dbc65eedcd5b0311d3b85d1a4466f"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.x86_64-linux-musl.tar.gz"
 [[sed]]
 arch = "x86_64"
-git-tree-sha1 = "2dd5db12b084fd8771f9e1bae223123d251f4a2a"
+git-tree-sha1 = "7e952d2df2ccbe210b6ee50a05a170a366340229"
 os = "freebsd"
 
     [[sed.download]]
-    sha256 = "0c48e3ddc2053bffe6c97293e7c299980ba9cf9ac661bcc932d56fb9034f93b8"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "c60148ca7cacab5f8aeccb2bef3ffe282e87b3cea2f4b783ebe906e621f4be44"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.x86_64-unknown-freebsd.tar.gz"
 [[sed]]
 arch = "x86_64"
-git-tree-sha1 = "a8ce74a78025890908c966c605d9f35c76a9fc57"
+git-tree-sha1 = "33a52de67875a6f163d8490368989e9a16297a5a"
 os = "windows"
 
     [[sed.download]]
-    sha256 = "7147f3bc6a5c54b3d7849a3a86553384f97e7f77f54f924fdc3c610a0f9ad225"
-    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.9.0+0/sed.v4.9.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "b8c5fd28678343a077829c11cadbbe6fdaa09e6aae0ae90f6b7b062cfbf065ef"
+    url = "https://github.com/JuliaBinaryWrappers/sed_jll.jl/releases/download/sed-v4.10.0+0/sed.v4.10.0.x86_64-w64-mingw32.tar.gz"
